@@ -3,8 +3,9 @@
 
 <h4>Strategy</h4>
 
-Todos os padrões de projeto definidos pela Gang of Four (GoF) possuem uma motivação: resolver um problema recorrente. Que tipo de problema o padrão Strategy visa resolver?
-A existência de diversos algoritmos para uma ação, resultando na possibilidade de vários ifs.Este padrão pode ser utilizado quando há diversos possíveis algoritmos para uma ação (como calcular imposto, por exemplo). Nele, nós separamos cada um dos possíveis algoritmos em classes separadas.
+Todos os padrões de projeto definidos pela Gang of Four (GoF) possuem uma motivação: resolver um problema recorrente. 
+
+Que tipo de problema o padrão Strategy visa resolver? A existência de diversos algoritmos para uma ação, resultando na possibilidade de vários ifs.Este padrão pode ser utilizado quando há diversos possíveis algoritmos para uma ação (como calcular imposto, por exemplo). Nele, nós separamos cada um dos possíveis algoritmos em classes separadas.
 
 <h4>Chain of Responsibility</h4>
 
