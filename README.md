@@ -20,3 +20,8 @@ Se precisar editar um pedaço de código, para implementar uma nova funcionalida
 Aplica-se o Template Method com a criação de um método concreto na classe “mãe”, que chama métodos abstratos implementados nas classes “filhas”. 
 
 Qual a principal vantagem da utilização desse padrão? Reaproveitar trechos de códigos comuns, evitando duplicações. O padrão Template Method favorece o reaproveitamento de códigos comuns entre classes, evitando assim duplicações de códigos.
+
+<h4>State</h3>
+O padrão State resolve um problema muito parecido com um problema resolvido por outro padrão.
+
+Que outro padrão seria esse? O padrão State, assim como o padrão Strategy, resolve o problema de muitos ifs no código.
