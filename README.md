@@ -21,7 +21,12 @@ Aplica-se o Template Method com a criação de um método concreto na classe “
 
 Qual a principal vantagem da utilização desse padrão? Reaproveitar trechos de códigos comuns, evitando duplicações. O padrão Template Method favorece o reaproveitamento de códigos comuns entre classes, evitando assim duplicações de códigos.
 
-<h4>State</h3>
+<h4>State</h>
 O padrão State resolve um problema muito parecido com um problema resolvido por outro padrão.
 
 Que outro padrão seria esse? O padrão State, assim como o padrão Strategy, resolve o problema de muitos ifs no código.
+
+<h4>Command</h4>
+Da forma como o código foi organizado, se precisássemos, além de executar a geração de pedido através da CLI, também executar através de um formulário web, uma API e/ou mensagens de uma fila, precisaríamos duplicar todo este código em vários lugares. 
+
+Qual o problema de ter um código arquitetado assim, recebendo os dados e executando todas as tarefas no mesmo local? a forma como o código foi organizado, se precisássemos, além de executar a geração de pedido através da CLI, também executar através de um formulário web, uma API e/ou mensagens de uma fila, precisaríamos duplicar todo este código em vários lugares.
