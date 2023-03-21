@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityLoja/ChainOfResponsibilityLoja.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityLoja/ChainOfResponsibilityLoja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StateLoja/Command.iml" filepath="$PROJECT_DIR$/StateLoja/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design_Patterns_Alura.iml" filepath="$PROJECT_DIR$/.idea/Design_Patterns_Alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loja/Loja.iml" filepath="$PROJECT_DIR$/Loja/Loja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemChainOfResponsibilityLoja/SemChainOfResponsibilityLoja.iml" filepath="$PROJECT_DIR$/SemChainOfResponsibilityLoja/SemChainOfResponsibilityLoja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyLoja/StrategyLoja.iml" filepath="$PROJECT_DIR$/StrategyLoja/StrategyLoja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethodLoja/TemplateMethodLoja.iml" filepath="$PROJECT_DIR$/TemplateMethodLoja/TemplateMethodLoja.iml" />
+    </modules>
+  </component>
+</project>
